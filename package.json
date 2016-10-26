@@ -1,0 +1,23 @@
+{
+  "name": "prep-js-basics",
+  "version": "1.0.0",
+  "description": "# References - [slides](https://slides.com/sgnl/js-basics)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./tests/index.spec.js | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devleague/prep-js-basics.git"
+  },
+  "author": "Dev League LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devleague/prep-js-basics/issues"
+  },
+  "homepage": "https://github.com/devleague/prep-js-basics#readme",
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.5.1"
+  }
+}
